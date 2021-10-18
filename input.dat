@@ -1,0 +1,33 @@
+Size: X,  Y,  Z
+      30  30  20
+NumberOfNode
+41
+SlitPore
+1
+ParticleParameter
+Diameter  Number 
+1.0        4000   
+Structure (2: file, 1: order, 0: random)
+0
+SlitPoreForm (i.e. HS, SW)
+HS
+depthOfWell widthOfWell
+0.0           1.0
+NumberOfCycles
+80
+NumberOfInitializationCycles
+40
+Beta
+1.
+PrintForm (i.e. screen, text)
+text
+StepTime (TODO)
+0.001
+NumberOfDiffusionStep
+1
+NumberOfBuffer
+20
+limitAverageOfDiffusion
+35
+DiffusionStep
+10
